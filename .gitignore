@@ -12,3 +12,5 @@ nbproject
 pkg
 *.swp
 spec/dummy
+gemfiles/*.gemfile.lock
+gemfiles/.bundle/
