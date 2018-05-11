@@ -1,5 +1,6 @@
 require 'spree_core'
 require 'spree_api'
+require 'spree_auth_devise'
 
 require 'active_model_serializers'
 require 'apitome'
